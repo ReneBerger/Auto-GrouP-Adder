@@ -1,6 +1,8 @@
-# Repository-Zweck und Zuständigkeit
+# Repository-Profil: Inhalt, Ziel, Eigentümer und Zuständigkeit
 
 - **Repository:** `ReneBerger/Auto-GrouP-Adder`
+- **GitHub-Eigentümer:** [ReneBerger](https://github.com/ReneBerger) (Repository-Owner; fachlicher Projektverantwortlicher nicht separat verifiziert)
+- **Ziel:** Historischen Code zur Facebook-Gruppenautomatisierung verwalten; aktiver Einsatz ungeprüft.
 - **URL:** https://github.com/ReneBerger/Auto-GrouP-Adder
 - **Kurzbeschreibung:** Historisches Werkzeug zur automatisierten Aufnahme in Facebook-Gruppen
 - **Zuständigkeit / SSOT:** Automatisierungsskript; konkrete Funktionsfähigkeit und Einsatzstatus nicht verifiziert
